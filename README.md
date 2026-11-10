@@ -21,8 +21,8 @@
 
 | 目录 | 内容 |
 | :--- | :--- |
-| [BUUCTF](https://github.com/niepanjun/CTF-WriteUps/tree/main/BUUCTF) | 入门 pwn 题解（rip、warmup_csaw_2016 …） |
-| [WEB](https://github.com/niepanjun/CTF-WriteUps/tree/main/WEB) | Web 方向题目思路（Ping Ping Ping、WarmUp、Exec 等） |
+| [BUUCTF](https://github.com/niepanjun/CTF-WriteUps/tree/main/BUUCTF) | pwn 题解 |
+| [WEB](https://github.com/niepanjun/CTF-WriteUps/tree/main/WEB) | Web 方向题目思路 |
 | [REVERSE](https://github.com/niepanjun/CTF-WriteUps/tree/main/REVERSE) | 逆向题解 |
 | [MISC](https://github.com/niepanjun/CTF-WriteUps/tree/main/MISC) | 杂项 / 流量分析 |
 | [Notes](https://github.com/niepanjun/CTF-WriteUps/tree/main/Notes) | 原理与思路堆放处 |
