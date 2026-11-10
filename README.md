@@ -14,7 +14,7 @@
 ## 关于我
 
 - 📝 每道题都留 writeup，全部归档在 [CTF-WriteUps](https://github.com/niepanjun/CTF-WriteUps)
-- 🧱 主要练二进制相关，MISC 和 Web 浅有涉猎（题刚起步，还在和 malloc 的元数据搏斗）
+- 🧱 主要练二进制相关，MISC 和 Web 浅有涉猎
 - 🌱 日常刷题：BUUCTF
 
 ## 仓库导航
